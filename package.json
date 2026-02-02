@@ -1,0 +1,13 @@
+{
+  "name": "bist-backend",
+  "version": "1.0.0",
+  "description": "BIST 100 Backend API with caching",
+  "main": "api/bist-data.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": ["bist", "stock", "api"],
+  "author": "",
+  "license": "MIT"
+}
